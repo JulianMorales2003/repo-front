@@ -38,7 +38,7 @@ Este repositorio contiene únicamente documentación del frontend: modelo de flu
 
 ## 1. Prototipo
 
-🔗 [Ver prototipo](PEGAR_LINK_AQUI)
+🔗 [Ver prototipo][(https://ollacercana.netlify.app/))]
 
 ---
 
