@@ -44,7 +44,6 @@ Este repositorio contiene únicamente documentación del frontend: modelo de flu
 
 ## 2. Modelo de flujo de pantallas
 
-
 El visitante entra por **Inicio** (portada → animación → cocina de la abuelita → *ending page*), explora el **Menú** o el **Mapa de cocineras** sin sesión y, al intentar añadir o reservar, se le pide **iniciar sesión o registrarse**. Según su rol, aterriza en el **Menú** (comprador), el **Modo Cocinera** (cocinera) o el **Panel de comunidad** (administrador). El comprador envía su pedido desde **Confirmar pedido** y lo sigue en **Mis pedidos**; la cocinera gestiona las solicitudes en **Modo Cocinera**. Si la sesión vence o el rol no corresponde, se muestran **Sesión expirada** o **Acceso denegado**, que llevan de nuevo al inicio de sesión.
 
 ---
@@ -466,6 +465,10 @@ Resumen del Manual de Identidad OllaCercana **v3.0** (Oct. 2026). Marca hogareñ
 - **Personaje "La abuela de la cuadra":** ilustración 3D simbólica (no es la foto de una cocinera real). Rasgos fijos: gorro de cocinera, gafas redondas, cardigan vino, camisa a cuadros rojo/blanco, corbata azul a rayas, aretes de perla, sosteniendo la olla. Úsala en portada, onboarding y botón de ayuda; no como foto de perfil ni en lugar de fotos reales de comida.
 
 ![La abuela](docs/identidad/personaje-abuela.jpg)
+
+**Hoja oficial del personaje:** poses (amigable, cercana, siempre activa y en tu conjunto), expresiones y paleta de colores.
+
+![Hoja oficial del personaje](docs/identidad/hoja-personaje.png)
 
 ---
 
