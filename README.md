@@ -44,7 +44,6 @@ Este repositorio contiene únicamente documentación del frontend: modelo de flu
 
 ## 2. Modelo de flujo de pantallas
 
-![Flujo de pantallas](docs/flujo/flujo-general.png)
 
 El visitante entra por **Inicio** (portada → animación → cocina de la abuelita → *ending page*), explora el **Menú** o el **Mapa de cocineras** sin sesión y, al intentar añadir o reservar, se le pide **iniciar sesión o registrarse**. Según su rol, aterriza en el **Menú** (comprador), el **Modo Cocinera** (cocinera) o el **Panel de comunidad** (administrador). El comprador envía su pedido desde **Confirmar pedido** y lo sigue en **Mis pedidos**; la cocinera gestiona las solicitudes en **Modo Cocinera**. Si la sesión vence o el rol no corresponde, se muestran **Sesión expirada** o **Acceso denegado**, que llevan de nuevo al inicio de sesión.
 
